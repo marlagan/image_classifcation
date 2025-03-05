@@ -1,1 +1,2 @@
-# image_classifcation
+An image classification model was trained to recognize fish species using a dataset from Kaggle. The Google Colab file provides a comprehensive analysis of the entire process. 
+A confusion matrix, a classification report, and charts visualizing loss and accuracy across multiple epochs were used to evaluate the model's performance and effectiveness. The model was created using Convolutional Neural Network (CNN) architecture and trained with the Adam optimizer. Categorical Cross-Entropy was utilised as the loss function.
